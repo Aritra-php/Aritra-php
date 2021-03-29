@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bonjour, This is Aritra Ghosh  👋
 
-<!--
-**Aritra-php/Aritra-php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on HTML,CSS,Bootstrap,PHP,Mysql,C++
+- 🌱 I’m currently learning Python,Logic Building, Data Structure And Algorithm
+- 💬 Ask me about PHP
+- 📫 How to reach me: Twitter: https://twitter.com/GhoshAritra07, Gmail: aritra239@gmail.com
+- 💻 All My projects are available on my portfolio: https://aritra-php.github.io/
 
-Here are some ideas to get you started:
+[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aritra-php&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-php&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
